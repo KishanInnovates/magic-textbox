@@ -7,6 +7,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { CopyIcon, CheckIcon, WandSparklesIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+
 export default function TextEnhancer() {
   const [text, setText] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -116,6 +117,7 @@ export default function TextEnhancer() {
         <WandSparklesIcon className="mr-2 h-4 w-4" />
         {isLoading ? "Enhancing..." : "Magic"}
       </Button>
+      
     </div>
   );
 }
