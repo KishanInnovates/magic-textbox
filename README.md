@@ -2,6 +2,8 @@
 
 Magic Textbox is a simple yet powerful tool that refines user input into a more humanized and polished version with a seamless transition effect. 
 
+live : http://magic-textbox.vercel.app
+
 ## 🌟 Features
 - 📝 **Text Enhancement** – Improves clarity, engagement, and style.  
 - 🎭 **Smooth Transitions** – Animated transformation of text.  
